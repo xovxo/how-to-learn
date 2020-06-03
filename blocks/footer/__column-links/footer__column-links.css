@@ -1,0 +1,12 @@
+.footer__column-links {
+  margin-bottom: 16px;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__column-links ul {
+  margin: 0;
+  padding: 0;
+}
