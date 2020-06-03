@@ -1,4 +1,8 @@
 @import url(description/description.css);
+@import url(two-columns/two-columns.css);
 @import url(digits/digits.css);
+@import url(section-title/section-title.css);
+@import url(section-subtitle/section-subtitle.css);
+@import url(table/table.css);
 @import url(feynman/feynman.css);
 @import url(kaufman/kaufman.css);

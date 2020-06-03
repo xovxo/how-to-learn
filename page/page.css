@@ -8,51 +8,6 @@
   margin: 0 auto;
 }
 
-.digits {
-  margin-bottom: 100px;
-}
-
-.section-title {
-  text-align: center;
-  width: 60%;
-  margin: 0 auto 20px auto;
-  line-height: 69px;
-  font-size: 60px;
-}
-
-.section-subtitle {
-  text-align: center;
-  width: 60%;
-  margin: 0 auto;
-  line-height: 34px;
-  font-size: 24px;
-}
-
-.table {
-  width: 1100px;
-  display: flex;
-  justify-content: space-between;
-  margin: 0 auto;
-  flex-wrap: wrap;
-}
-
-.table__cell {
-  width: 250px;
-  margin-top: 60px;
-}
-
-.table__heaging {
-  line-height: 1.15;
-  font-size: 24px;
-  margin: 0;
-}
-
-.table__text {
-  margin: 20px 0 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-}
-
 .feynman {
   height: 790px;
   background-color: #f2f2f2;
