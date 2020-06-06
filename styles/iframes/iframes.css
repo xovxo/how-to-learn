@@ -1,0 +1,16 @@
+.iframes {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.iframes iframe:first-child {
+  margin-right: 20px;
+}
+
+.iframes iframe {
+  width: 560px;
+  height: 315px;
+}

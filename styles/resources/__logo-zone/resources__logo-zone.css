@@ -1,0 +1,21 @@
+.resources__logo-zone {
+  max-width: 1100px;
+  margin: 80px auto 0 auto;
+  display: flex;
+}
+
+.resources__logo-zone ul {
+  padding: 0;
+}
+
+.resources__logo-zone li {
+  list-style-type: none;
+}
+
+.resources__logo-zone a {
+  transition: opacity 1.5s ease-out;
+}
+
+.resources__logo-zone a:hover {
+  opacity: 0.5;
+}
